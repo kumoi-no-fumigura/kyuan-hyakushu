@@ -5,7 +5,12 @@
  "yomi": "きゅうあんひゃくしゅ",
  "category": "私撰集",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "定数歌（百首歌）",
+  "era": "久安6年（1150）",
+  "author": "崇徳院と藤原俊成・藤原清輔ら14人",
+  "desc": "崇徳院の召しによる百首歌。詞花和歌集・千載和歌集の撰集資料になった。"
+ },
  "editions": [
   {
    "pid": "2576228",
