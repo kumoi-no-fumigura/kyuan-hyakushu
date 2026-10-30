@@ -3,7 +3,7 @@
  "work_id": "kyuan-hyakushu",
  "repo": "kumoi-no-fumigura/kyuan-hyakushu",
  "yomi": "きゅうあんひゃくしゅ",
- "category": "私撰集",
+ "category": "定数歌",
  "kind": "kashu",
  "description": {
   "kind": "定数歌（百首歌）",
@@ -30492,7 +30492,7 @@
   "work_id": "kyuan-hyakushu",
   "work": "久安百首",
   "yomi": "きゅうあんひゃくしゅ",
-  "category": "私撰集",
+  "category": "定数歌",
   "order": 0,
   "era": "平安時代",
   "author": "",
